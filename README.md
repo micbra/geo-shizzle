@@ -9,7 +9,7 @@ Interactive Google-Map which returns Latitude/Longtitude of the maps center and 
 
 ## Usage
 
-Choose a map-area by dragging the map around (or zoom in and out). As you click the **Get Coors** Button you get returned 3 lines:
+Choose a map-area by dragging the map around (or zoom in and out). As you click the **Get Coords** Button you get returned 3 lines:
 
 1. **Zentrum:** The LatLng-Coordinates of the maps center
 2. **West-Ost:** The distance in meters between the westernmost and the easternmost point of the map
